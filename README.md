@@ -1,4 +1,4 @@
-# This is the real Github (Check name github Hert5xD)
+# This is the real Github (Check name github HertXD)
 # Version
 * Version : <b>4.19</b> [15/3/2023]
 
