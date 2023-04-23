@@ -1,8 +1,8 @@
 # This is the real Github (Check name github HertxD)
 # Version
-* Version : <b>4.22</b> [1/4/2023]
-* Compatible growtopia version : <b>4.22</b>
-* [Download Growtopia 4.22](https://ubistatic-a.akamaihd.net/0098/594764/GrowtopiaInstaller.exe)
+* Version : <b>4.23</b> [1/4/2023]
+* Compatible growtopia version : <b>4.23</b>
+
 # Download
 * [Download](https://cdn.discordapp.com/attachments/1060973280967798948/1093792442110717992/Inzector.exe)
 * [Discord Server](https://discord.com/invite/duisfdhys9fH)
