@@ -3,10 +3,17 @@
 * Version : <b>4.23</b> [1/4/2023]
 * Compatible growtopia version : <b>4.23</b>
 
+
+
 # Download
 * [Download](https://cdn.discordapp.com/attachments/1060973280967798948/1093792442110717992/Inzector.exe)
 * [Discord Server](https://discord.com/invite/duisfdhys9fH)
 * [Growtopia](growtopiagame.com)
+
+# Changelogs [21/4/2023]
+* Fixed 4.23 login issue
+* Fixed memory leak on the pathfinder
+* Added Safe execution (disable os, io, require, sendwebhook)
 
 # Changelogs [24/3/2023]
 * Added "OnUpdate" Callback type, check luadocs for more information
