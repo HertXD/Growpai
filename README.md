@@ -10,6 +10,11 @@
 * [Discord Server](https://discord.com/invite/duisfdhys9fH)
 * [Growtopia](growtopiagame.com)
 
+# Changelogs [29/3/2023]
+* Added OnTouch Callback
+* Improved Auto bfg
+* Fixed can't login due to rtvar parsing
+
 # Changelogs [21/4/2023]
 * Fixed 4.23 login issue
 * Fixed memory leak on the pathfinder
