@@ -1,7 +1,7 @@
 # This is the real Github (Check name github HertxD)
 # Version
-* Version : <b>4.23</b> [1/4/2023]
-* Compatible growtopia version : <b>4.23</b>
+* Version : <b>4.30</b> [1/4/2023]
+* Compatible growtopia version : <b>4.30</b>
 
 
 
