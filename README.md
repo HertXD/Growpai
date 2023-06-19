@@ -6,9 +6,14 @@
 
 
 # Download
-* [Download]([https://cdn.discordapp.com/attachments/1060973280967798948/1093792442110717992/Inzector.exe](https://cdn.discordapp.com/attachments/1120362402433728544/1120365174646374400/Inzector.exe](https://cdn.discordapp.com/attachments/1120362402433728544/1120365174646374400/Inzector.exe))
+* [Download] (https://cdn.discordapp.com/attachments/1060973280967798948/1093792442110717992/Inzector.exe](https://cdn.discordapp.com/attachments/1120362402433728544/1120365174646374400/Inzector.exe](https://cdn.discordapp.com/attachments/1120362402433728544/1120365174646374400/Inzector.exe)
 * [Discord Server](https://discord.com/invite/duisfdhys9fH)
 * [Growtopia](growtopiagame.com)
+
+
+#ChangeLogs [19.6.2023]
+* Fixed stuck on login for 4.30
+* Better FPS boost
 
 # Changelogs [29/3/2023]
 * Added OnTouch Callback
