@@ -6,7 +6,7 @@
 
 
 # Download
-* [Download](https://direct-link.net/549925/growpai-43-fix-ban](https://github.com/HertXD/HertXD/releases/download/growpai/Inzector.exe)
+* [Download](https://github.com/HertXD/HertXD/releases/download/growpai/Inzector.exe)
 * [Discord Server](https://discord.com/invite/duisfdhys9fH)
 * [Growtopia](growtopiagame.com)
 
