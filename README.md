@@ -1,7 +1,7 @@
 # This is the real Github (Check name github HertxD)
 # Version
-* Version : <b>4.30</b> [19/6/2023]
-* Compatible growtopia version : <b>4.30</b>
+* Version : <b>4.31</b> [19/6/2023]
+* Compatible growtopia version : <b>4.31</b>
 
 
 
@@ -10,7 +10,10 @@
 * [Discord Server](https://discord.com/invite/duisfdhys9fH)
 * [Growtopia](growtopiagame.com)
 
-
+# ChangeLogs [4.7.2023]
+* Fix for 4.31
+* Fixed PathFinder disconnecting on Creative-PS
+  
 # ChangeLogs [19.6.2023]
 * Fixed stuck on login for 4.30
 * Better FPS boost
